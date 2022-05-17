@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "97204403193",
+    "project_id": "missingperson-f4dd7",
+    "storage_bucket": "missingperson-f4dd7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97204403193:android:e865686a42fbe46a02db28",
+        "android_client_info": {
+          "package_name": "com.pragati_gangwar.missing_people"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "97204403193-jl7kogfchh7uha5kbuvvi1v932js5eu5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwC0gUSIk3waIRtoQWLc6gLlkK67KKrbg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "97204403193-jl7kogfchh7uha5kbuvvi1v932js5eu5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
