@@ -39,13 +39,13 @@ class _HomePageState extends State<HomePage> {
         ),
         body: SafeArea(
           child: Column(
-            mainAxisAlignment: MainAxisAlignment.center,
+            mainAxisAlignment: MainAxisAlignment.start,
             children: [
-              SizedBox(height: 40),
+              SizedBox(height: 200),
               Image(
                 image: AssetImage('images/logo1.png'),
               ),
-              SizedBox(height: 20),
+              SizedBox(height: 50),
               Padding(
                 padding: EdgeInsets.symmetric(vertical: 8.0),
                 child: Material(
@@ -60,12 +60,12 @@ class _HomePageState extends State<HomePage> {
                               builder: (context) => SignUpPage()));
                     },
                     minWidth: 300.0,
-                    height: 50.0,
+                    height: 70.0,
                     child: Text(
-                      'I\'m searching for a missing person',
+                      'Found/Lost Person',
                       style: TextStyle(
                         color: Colors.white,
-                        fontSize: 18,
+                        fontSize: 22,
                         fontWeight: FontWeight.bold,
                         letterSpacing: 0,
                         wordSpacing: 0,
@@ -74,36 +74,7 @@ class _HomePageState extends State<HomePage> {
                   ),
                 ),
               ),
-              SizedBox(height: 9),
-              Padding(
-                padding: EdgeInsets.symmetric(vertical: 8.0),
-                child: Material(
-                  color: const Color(0xFFE04D01),
-                  borderRadius: BorderRadius.all(Radius.circular(10.0)),
-                  elevation: 5.0,
-                  child: MaterialButton(
-                    onPressed: () {
-                      Navigator.pushReplacement(
-                          context,
-                          MaterialPageRoute(
-                              builder: (context) => UploadImage_Page()));
-                    },
-                    minWidth: 300.0,
-                    height: 50.0,
-                    child: Text(
-                      'I\'ve found a lost person',
-                      style: TextStyle(
-                        color: Colors.white,
-                        fontSize: 18,
-                        fontWeight: FontWeight.bold,
-                        letterSpacing: 0,
-                        wordSpacing: 0,
-                      ),
-                    ),
-                  ),
-                ),
-              ),
-              SizedBox(height: 60),
+              SizedBox(height: 10),
               Row(
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: [
