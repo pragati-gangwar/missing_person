@@ -1,7 +1,7 @@
 import 'dart:math';
 
 import 'package:flutter/material.dart';
-import 'package:missing_people/Screens/HOME2.dart';
+
 import 'package:confetti/confetti.dart';
 
 class WelcomeHome extends StatefulWidget {
@@ -15,7 +15,6 @@ class _WelcomeHomeState extends State<WelcomeHome> {
 
   @override
   void initState() {
-
     super.initState();
     controller.play();
   }
