@@ -43,11 +43,6 @@ class _UploadImage_PageState extends State<UploadImage_Page> {
   var image2 = new Regula.MatchFacesImage();
   final _auth = FirebaseAuth.instance;
 
-  // @override
-  // void initState() {
-  //   super.initState();
-  //   getCurrentUser();
-  // }
   GlobalMethods _globalMethods = GlobalMethods();
 
   Future<void> getCurrentUser() async {
@@ -338,6 +333,7 @@ class _UploadImage_PageState extends State<UploadImage_Page> {
                       onPressed: () async {
                         getCurrentUser();
                         // matchFaces();
+
                         Navigator.pushReplacement(
                             context,
                             MaterialPageRoute(
