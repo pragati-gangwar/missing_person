@@ -1,7 +1,9 @@
 # missingPERSON ![Logo](images/readme.png)
 
 
-An app to find people in the event of their loss
+The outlay of crime and missing cases in India is intensifying
+day by day. An app is developed to scale back the crimes and
+therefore the missing cases happening within the locality.
 
 
 
@@ -15,7 +17,7 @@ An app to find people in the event of their loss
 The project missingPERSON is an Android Mobile Application built
 using Flutter for Microsoft Engage 2022, used to help the community
 find people (specially children and senior citizen) in the event
-of their loss, using the Microsoft Face API for facial matching.
+of their loss, using the Flutter Face API for face matching.
 Users can post the lost or found requests in the app through their
 accounts. If any of the lost requests matches with any of the found requests
 then both the users are notified.
@@ -59,3 +61,5 @@ The flutter application is compatible to run on android smart phones.
 - A chat system could be established for smooth and direct communication between founder and searcher.
 - App can be expanded world wide by adding location filter.
 - The ML model could be implemented to make sure picked image is of human only.
+- Implement either an on-device API or ML model to send the current GPS location to the searcher without having to supply any additional contextual metadata.
+- Act as a powerful tool for Crime investigation department(like Police department) to speed up in their investigation and track the status of multiple cases at a time.
