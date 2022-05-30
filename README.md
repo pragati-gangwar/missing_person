@@ -20,7 +20,7 @@ find people (specially children and senior citizen) in the event
 of their loss, using the Flutter Face API for face matching.
 Users can post the lost or found requests in the app through their
 accounts. If any of the lost requests matches with any of the found requests
-then both the users are notified.
+then both the users are notified. 
 
 
 
