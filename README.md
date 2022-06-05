@@ -58,7 +58,7 @@ The flutter application is compatible to run on android smart phones.
 
 ## Screenshots
 
-![Splash Screen](images/ss1.jpeg)  
+![Splash Screen](images/logo1.png)  
 
 
 
