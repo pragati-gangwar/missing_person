@@ -87,6 +87,8 @@ Dashboard Screen            |                  |   My Profile Screen
 :-------------------------:|:-------------------------:|:-------------------------:
 ![Splash Screen](images/ss12.jpeg)  |  ![App Screenshot](images/ss13.jpeg) |  ![App Screenshot](images/ss14.jpeg)
 
+
+
 ## Future Scope
 
 - A chat system could be established for smooth and direct communication between founder and searcher.
