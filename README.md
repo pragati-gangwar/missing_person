@@ -87,9 +87,6 @@ Dashboard Screen            |                  |   My Profile Screen
 :-------------------------:|:-------------------------:|:-------------------------:
 ![Splash Screen](images/ss12.jpeg)  |  ![App Screenshot](images/ss13.jpeg) |  ![App Screenshot](images/ss14.jpeg)
 
-          |                
-:-------------------------:
-![Splash Screen](images/ss11.jpeg)  
 
 
 
