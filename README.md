@@ -58,7 +58,38 @@ The flutter application is compatible to run on android smart phones.
 
 ## Screenshots
 
-![Splash Screen](images/logo1.png)  
+Splash Screen            |  First Screen                |  Second Screen
+:-------------------------:|:-------------------------:|:-------------------------:
+![Splash Screen](images/ss1.jpeg)  |  ![Social message screen](images/ss5.jpeg) |  ![Home screen](images/ss2.jpeg)
+
+SignUp Screen           |                 |  |
+:-------------------------:|:-------------------------:|:-------------------------:
+![SignUp screen](images/ss22.jpeg)  |  ![SignUp screen](images/ss3.jpeg) |  ![SignUp screen](images/ss4.jpeg)
+
+Login Screen           |  Forget Password screen  | |
+:-------------------------:|:-------------------------:|:-------------------------:
+![Login Screen](images/ss23.jpeg)  |  ![Forget Password screen](images/ss24.jpeg) |  ![email screen](images/ss25.jpeg)
+
+Form Screen            |               |  |
+:-------------------------:|:-------------------------:|:-------------------------:
+![Form Screen](images/ss18.jpeg)  |  ![App Screenshot](images/ss15.jpeg) |  ![App Screenshot](images/ss16.jpeg)
+
+
+Uploading Image Screen            |                 |  |
+:-------------------------:|:-------------------------:|:-------------------------:
+![Splash Screen](images/ss6.jpeg)  |  ![App Screenshot](images/ss7.jpeg) |  ![App Screenshot](images/ss8.jpeg)
+
+Welcome Screen            |                  |   My Post Screen
+:-------------------------:|:-------------------------:|:-------------------------:
+![Splash Screen](images/ss50.jpeg)  |  ![App Screenshot](images/ss9.jpeg) |  ![App Screenshot](images/ss10.jpeg)
+
+Dashboard Screen            |                  |   My Profile Screen
+:-------------------------:|:-------------------------:|:-------------------------:
+![Splash Screen](images/ss12.jpeg)  |  ![App Screenshot](images/ss13.jpeg) |  ![App Screenshot](images/ss14.jpeg)
+
+Welcome Screen            |                  |   |
+:-------------------------:|:-------------------------:|:-------------------------:
+![Splash Screen](images/ss11.jpeg)  |  ![App Screenshot](images/ss17.jpeg) |  ![App Screenshot](images/ss100.jpeg)
 
 
 
