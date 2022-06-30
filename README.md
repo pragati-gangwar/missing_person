@@ -1,7 +1,7 @@
 # missingPERSON ![Logo](images/readme.png)
 
 
-The outlay of crime and missing cases in India is intensifying
+The rate of crime and missing cases in India is intensifying
 day by day. An app is developed to scale back the crimes and
 therefore the missing cases happening within the locality.
 
@@ -15,7 +15,7 @@ therefore the missing cases happening within the locality.
 
 
 The project missingPERSON is an Android Mobile Application built
-using Flutter for Microsoft Engage 2022, used to help the community
+using Flutter, used to help the community
 find people (specially children and senior citizen) in the event
 of their loss, using the Flutter Face API for face matching.
 Users can post the lost or found requests in the app through their
@@ -87,10 +87,6 @@ Dashboard Screen            |                  |   My Profile Screen
 :-------------------------:|:-------------------------:|:-------------------------:
 ![Splash Screen](images/ss12.jpeg)  |  ![App Screenshot](images/ss13.jpeg) |  ![App Screenshot](images/ss14.jpeg)
 
-
-##Video Demo for Engage 2022
-
-https://user-images.githubusercontent.com/89040125/172054199-98f60fd0-2db4-4bef-9956-8854dc8daf45.mp4
 
 
 ## Future Scope
