@@ -1,4 +1,4 @@
-# missingPERSON ![Logo](images/readme.png)
+# ![Logo](images/readme.png) missingPERSON 
 
 
 The rate of crime and missing cases in India is intensifying
